@@ -1,1 +1,1 @@
-# JavaNotes
+School Management Exercise
